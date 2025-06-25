@@ -10,6 +10,7 @@
 ### Publish
 
 <!-- most used language -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okc0202)](https://solved.ac/okc0202/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohchanKyu&layout=compact)](https://github.com/delay-100/github-readme-stats)
 <!--
 **ohchanKyu/ohchanKyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
