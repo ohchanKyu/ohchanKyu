@@ -3,7 +3,7 @@ Backend Developer
 Dankook university (2020.03 ~ 2026.02)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okc0202)](https://solved.ac/okc0202/)
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=okc0202&theme=dark)
 
 ## Skills
 ### Languages
