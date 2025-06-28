@@ -1,11 +1,9 @@
-Backend Developer GIF
+Backend Developer
 
 Dankook university (2020.03 ~ 2026.02)
-Software Maestro 13th (2022.04 ~ 2022.11)
-Wavve Android Developer (2023.03 ~ ing)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okc0202)](https://solved.ac/okc0202/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohchanKyu&show_icons=true&theme=chartreuse-dark&show_icons=true)
+
 
 ## Skills
 ### Languages
@@ -13,6 +11,9 @@ Wavve Android Developer (2023.03 ~ ing)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohchanKyu&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
 ### Platforms
