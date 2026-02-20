@@ -1,7 +1,7 @@
 Dankook University (2020.03 ~ 2026.02) <br/>
 DWhale Backend Developer (2025.11 ~ )
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okc0202)](https://solved.ac/okc0202/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okc0202)](https://solved.ac/okc0202)​
 
 ## Portfolio
 https://righteous-rain-c3a.notion.site/246dd7148b148016a736dda350946ea4
